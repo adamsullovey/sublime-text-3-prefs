@@ -1,0 +1,9 @@
+{
+	"installed_packages":
+	[
+		"JsFormat",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json"
+	]
+}
