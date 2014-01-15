@@ -1,10 +1,11 @@
 {
 	"installed_packages":
 	[
+		"Jade",
 		"JsFormat",
 		"SublimeLinter",
-		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
-		"SublimeLinter-json"
+		"SublimeLinter-json",
+		"SublimeLinter-php"
 	]
 }
