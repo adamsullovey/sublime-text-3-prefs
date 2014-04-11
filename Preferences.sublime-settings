@@ -9,19 +9,15 @@
 	"auto_complete_delay": 50,
 	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"auto_complete_size_limit": 4194304,
-	"auto_complete_triggers":
-	[
-		{
-			"characters": "<",
-			"selector": "text.html"
-		}
-	],
+	"auto_complete_triggers": [{
+		"characters": "<",
+		"selector": "text.html"
+	}],
 	"auto_complete_with_fields": false,
 	"auto_find_in_selection": false,
 	"auto_indent": true,
 	"auto_match_enabled": true,
-	"binary_file_patterns":
-	[
+	"binary_file_patterns": [
 		"*.jpg",
 		"*.jpeg",
 		"*.png",
@@ -60,8 +56,7 @@
 	"ensure_newline_at_eof_on_save": false,
 	"fade_fold_buttons": true,
 	"fallback_encoding": "Western (Windows 1252)",
-	"file_exclude_patterns":
-	[
+	"file_exclude_patterns": [
 		"*.pyc",
 		"*.pyo",
 		"*.exe",
@@ -85,34 +80,28 @@
 	],
 	"find_selected_text": true,
 	"fold_buttons": true,
-	"folder_exclude_patterns":
-	[
+	"folder_exclude_patterns": [
 		".svn",
 		".git",
 		".hg",
 		"CVS"
 	],
-	"font_options":
-	[
-	],
+	"font_options": [],
 	"font_size": 15,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
-	"ignored_packages":
-	[
+	"ignored_packages": [
 		"Vintage"
 	],
-	"indent_guide_options":
-	[
+	"indent_guide_options": [
 		"draw_normal"
 	],
 	"indent_subsequent_lines": true,
 	"indent_to_bracket": false,
-	"index_exclude_patterns":
-	[
+	"index_exclude_patterns": [
 		"*.log"
 	],
 	"index_files": true,
@@ -132,8 +121,7 @@
 	"overlay_scroll_bars": "system",
 	"preview_on_click": true,
 	"remember_open_files": true,
-	"rulers":
-	[
+	"rulers": [
 		80
 	],
 	"save_on_focus_lost": false,

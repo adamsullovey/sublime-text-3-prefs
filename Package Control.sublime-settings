@@ -1,6 +1,5 @@
 {
-	"installed_packages":
-	[
+	"installed_packages": [
 		"ApacheConf.tmLanguage",
 		"BracketHighlighter",
 		"DocBlockr",
@@ -12,6 +11,8 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"Theme - Spacegray"
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php"
 	]
 }
