@@ -1,10 +1,17 @@
 {
 	"installed_packages":
 	[
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Jade",
 		"JsFormat",
+		"nginx",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
-		"SublimeLinter-json"
+		"SublimeLinter-json",
+		"Theme - Spacegray"
 	]
 }
