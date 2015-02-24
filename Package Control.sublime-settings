@@ -1,17 +1,25 @@
 {
-	"installed_packages": [
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
 		"ApacheConf.tmLanguage",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Jade",
 		"JsFormat",
+		"Laravel Blade Highlighter",
 		"nginx",
+		"Package Control",
+		"Puppet",
+		"Sass",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-puppet-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
-		"SublimeLinter-jshint",
-		"SublimeLinter-json",
-		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php"
 	]
