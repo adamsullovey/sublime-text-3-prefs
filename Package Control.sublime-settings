@@ -1,26 +1,53 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"Additional PHP Snippets",
-		"ApacheConf.tmLanguage",
+		"All Autocomplete",
+		"AngularJS",
+		"Babel",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"DocBlockr",
-		"Jade",
-		"JsFormat",
+		"EditorConfig",
+		"Flow",
+		"FlowIDE",
+		"GitGutter",
+		"HTML5",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"JSX",
 		"Laravel Blade Highlighter",
+		"Liquid",
 		"nginx",
+		"Oceanic Next Color Scheme",
 		"Package Control",
+		"Pug",
 		"Puppet",
 		"Sass",
+		"Stylus",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-eslint_d",
+		"SublimeLinter-contrib-pug-lint",
 		"SublimeLinter-contrib-puppet-lint",
+		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-csslint",
-		"SublimeLinter-html-tidy",
+		"SublimeLinter-flow",
 		"SublimeLinter-json",
-		"SublimeLinter-php"
+		"SublimeLinter-php",
+		"Terminal",
+		"Theme - Cobalt2",
+		"TypeScript"
+	],
+	"real-repo":
+	[
+		"https://packagecontrol.io/channel.json"
+	],
+	"repositories":
+	[
+		"https://web.archive.org/web/20150905194312/https://packagecontrol.io/channel_v3.json"
 	]
 }
